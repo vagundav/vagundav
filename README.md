@@ -24,6 +24,7 @@ Use Case 1: User can switch on home device using Vizualization. After shutting d
 
 <details>
 <summary>Test on/off button</summary>
+  
 - 1. Open visualization-screen
 - 2. Click on Floor 2/ Rooms
 - 3. Switch on Kitchen123
