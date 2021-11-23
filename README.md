@@ -30,7 +30,7 @@ Use Case: User can switch an home device using Vizualization. After shutting dow
 4. Check in http://192.168.8.207/scada-main the state of object "asd" has current value "on"
 5. There is in android device click on home button
 6. There is in android device go to list of opened apps, and close the app "touchpanel"
-7. There is in android device open app "touchpanel" oncemore.
-8. Kitchen123
+7. There is in android device open application "touchpanel" oncemore.
+8. Kitchen123 is switched on
 </details>
 
