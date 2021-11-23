@@ -34,4 +34,4 @@ Use Case 1: User can switch on home device using Vizualization. After shutting d
 - 8. Kitchen123
 </details>
 
-- [ ] passed
+- [X] passed
