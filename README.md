@@ -26,7 +26,7 @@ Use Case 1: User can switch on home device using Vizualization. After shutting d
   
 1. Open visualization-screen
 2. Click on Floor 2/ Rooms
-3. Switch on Kitchen123
+3. Switch on home device Kitchen123
 4. Check in http://192.168.8.207/scada-main the state of object "asd" has current value "on"
 5. There is in android device click on home button
 6. There is in android device go to list of opened apps, and close the app "touchpanel"
