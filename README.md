@@ -22,7 +22,7 @@ Create visualization screen using webview component.
 Use Case: User can switch an home device using Vizualization. After shutting down and reopening an application have home devices corresponding value as in previous run of application.
 
 <details>
-<summary>Test 1 - on/off button</summary>
+<summary>Test 1 - Switch on Kitchen123</summary>
   
 1. Open visualization-screen
 2. Click on Floor 2/ Rooms
